@@ -1,6 +1,11 @@
-# daftpunk
+# Daft Punk Flutter App
 
-A new Flutter project.
+# A new Flutter project i made for the legendary duo Daft Punk.
+
+![](assets/screenshots/prototype1.png)
+
+![](assets/screenshots/prototype2.png)
+
 
 ## Getting Started
 
